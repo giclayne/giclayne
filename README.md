@@ -3,6 +3,7 @@
 
 
 - 🔭 Participante do Programa Jovens Talentos da Elife 2022
+- 👩‍💼 Estagiária de desenvolvimento e manutenção de chatbots - Elife Brasil
 - 🌱 Graduanda em Ciência da Computação pela UFAPE
 - 💬 Contate-me no email: giclayne@gmail.com
 
