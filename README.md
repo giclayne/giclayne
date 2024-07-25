@@ -1,10 +1,9 @@
 
 ### Olá! Eu sou Giclayne Yanne! 👋
 
-
-- 🔭 Participante do Programa Jovens Talentos da Elife 2022
 - 👩‍💼 Estagiária em QA - 2024
 - 👩‍💼 Estagiária de desenvolvimento e manutenção de chatbots - Elife Brasil Março 2023/Maio 2024
+- 🔭 Participante do Programa Jovens Talentos da Elife 2022
 - 🌱 Graduanda em Ciência da Computação pela UFAPE
 - 💬 Contate-me no email: giclayne@gmail.com
 
