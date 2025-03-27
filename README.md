@@ -1,7 +1,8 @@
 
 ### Olá! Eu sou Giclayne Yanne! 👋
 
-- 👩‍💼 Estagiária em QA - 2024
+- 👩‍💼 Analista de Qualidade - QA - 2025
+- 👩‍💼 Estagiária em QA - Maio 2024 - Março 2025
 - 👩‍💼 Estagiária de desenvolvimento e manutenção de chatbots - Elife Brasil Março 2023/Maio 2024
 - 🔭 Participante do Programa Jovens Talentos da Elife 2022
 - 🌱 Graduanda em Ciência da Computação pela UFAPE
